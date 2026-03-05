@@ -167,7 +167,7 @@ Raw CSV
 | Data Processing | Python 3.11, pandas, numpy |
 | Visualisation | matplotlib, seaborn |
 | Database / SQL | SQLite, PostgreSQL (ANSI SQL) |
-| BI Dashboard 
+| BI Dashboard | Power Bi Desktop
 | PDF Report | ReportLab |
 | Version Control | Git / GitHub |
 ```
