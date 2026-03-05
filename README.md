@@ -1,4 +1,4 @@
- 🎬 OTT Revenue Leakage & Churn Risk Analytics System
+ 🎬 OTT Revenue  and Churn Risk Analytics System
 
 > A  data analytics solution to detect, quantify, and reduce subscription revenue loss for OTT platforms like Netflix, Disney+, and Amazon Prime Video.
 
